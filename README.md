@@ -63,9 +63,9 @@ You can deploy this bot anywhere.
 
 </a>
 
-Sign in
 
-Email us
+
+
 
 <details><summary>Deploy To Heroku</summary>
 <p>
@@ -81,7 +81,7 @@ Email us
 <pre>
 git clone https://github.com/AM-ROBOTS/EvaMaria
 # Install Packages
-pip3 install -U -r requirements.txt
+pip3 install -U -r requirements.txt<
 Edit info.py with variables as given below then run bot
 python3 bot.py
 </pre>
