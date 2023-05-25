@@ -52,6 +52,12 @@ Read [this](https://telegram.dog/Sources_cods) before you start messing up with 
 ## Deploy
 You can deploy this bot anywhere.
 
+<a href="https://render.com/deploy">
+
+<img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+
+</a>
+
 [![Deploy](https://cdn.scalingo.com/deploy/button.svg)](https://dashboard.scalingo.com/create/app?source=https://github.com/AM-ROBOTS/EvaMaria)
 
 
